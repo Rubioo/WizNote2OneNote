@@ -95,4 +95,6 @@ switch\_folder\_wiznote=2000
 
 3.按下Ctrl+F2后，过几秒可以停止操作，请多按几次以免无效。
 
+4.在任务停止后，会在当前文件夹下生成`migrate.log`，方便统计迁移的数量。
+
 <img src="media/image4.png"  />
