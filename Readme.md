@@ -90,7 +90,9 @@ switch\_folder\_wiznote=2000
 **使用：**
 
 1.执行`WizNote2OneNote.exe`，任务栏托盘处出现![](media/image5.png)图标。
+
 2.按下图设置好鼠标指针后，在键盘上按Ctrl+F1就开始自动执行了
+
 3.按下Ctrl+F2后，过几秒可以停止操作，请多按几次以免无效。
 
 <img src="media/image4.png"  />
